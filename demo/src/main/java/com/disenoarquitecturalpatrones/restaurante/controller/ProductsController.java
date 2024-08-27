@@ -5,9 +5,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping(path = "/products")
+@RequestMapping(path = "/producto")
 public class ProductsController {
-	@GetMapping(path = "/")
+	@GetMapping(path = "/inicio")
 	public String getMethodName() {
 		return "inicioProductos";
 	}

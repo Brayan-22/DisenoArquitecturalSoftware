@@ -17,7 +17,7 @@ import jakarta.validation.Valid;
 @RequestMapping(path = "/inicio")
 public class IndexController {
 
-	@GetMapping(path = "/")
+	@GetMapping(path = "/index")
 	public String inicio() {
 		return "index";
 	}

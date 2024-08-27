@@ -13,11 +13,11 @@
 	</header>
 	<main>
 		<h2></h2>
-		<form action="cliente" method="get">
+		<form action="${pageContext.servletContext.contextPath}/cliente/inicio" method="get">
 			<input type="submit" value="Cliente"/>
 		</form>
-		<form action="administrativo" method="get">
-			<input type="submit" value="Administrativo">
+		<form action="${pageContext.servletContext.contextPath}/producto/inicio" method="get">
+			<input type="submit" value="Producto"/>
 		</form>
 	</main>
 </body>

@@ -18,7 +18,7 @@ public class Cliente {
 	@Email
 	@NotBlank
 	private String correo;
-	@Pattern(regexp = "[a-zA-Z0-9_.]")
+	@Pattern(regexp = "[a-zA-Z0-9_.]",message = "la contraseña debe tener letras minisculas,mayusculas,numeros,puntos y barra al piso")
 	private String password;
 	public String getNombre() {
 		return nombre;

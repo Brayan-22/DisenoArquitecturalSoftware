@@ -9,9 +9,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 @RequestMapping("/cliente")
 public class ClienteController {
-
 	
-	@GetMapping("/")
+	@GetMapping("/inicio")
 	public String getMethodName() {
 		return "inicioCliente";
 	}
