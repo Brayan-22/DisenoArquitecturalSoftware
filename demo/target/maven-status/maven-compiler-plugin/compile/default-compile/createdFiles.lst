@@ -1,0 +1,13 @@
+com\disenoarquitecturalpatrones\restaurante\services\ProductoService.class
+com\disenoarquitecturalpatrones\restaurante\services\PedidoService.class
+com\disenoarquitecturalpatrones\restaurante\models\Cliente.class
+com\disenoarquitecturalpatrones\restaurante\DemoApplication.class
+com\disenoarquitecturalpatrones\restaurante\controller\ProductsController.class
+com\disenoarquitecturalpatrones\restaurante\controller\ClienteController.class
+com\disenoarquitecturalpatrones\restaurante\models\Producto.class
+com\disenoarquitecturalpatrones\restaurante\models\Pedido.class
+com\disenoarquitecturalpatrones\restaurante\services\Impl\PedidoServiceImpl.class
+com\disenoarquitecturalpatrones\restaurante\models\PedidoProductoId.class
+com\disenoarquitecturalpatrones\restaurante\models\Empleado.class
+com\disenoarquitecturalpatrones\restaurante\models\PedidoProducto.class
+com\disenoarquitecturalpatrones\restaurante\controller\IndexController.class

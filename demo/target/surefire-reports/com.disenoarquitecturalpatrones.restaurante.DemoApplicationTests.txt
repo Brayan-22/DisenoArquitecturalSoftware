@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.disenoarquitecturalpatrones.restaurante.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.938 s -- in com.disenoarquitecturalpatrones.restaurante.DemoApplicationTests
